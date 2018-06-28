@@ -1,1 +1,0 @@
-# shopspree-sales-app-master
